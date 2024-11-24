@@ -1,3 +1,3 @@
-# goit-js-hw-02
+# goit-js-hw-04
 
-All tasks work well.
+All tasks work well
